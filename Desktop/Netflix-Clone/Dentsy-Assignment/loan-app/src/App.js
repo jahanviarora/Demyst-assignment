@@ -63,8 +63,7 @@ function App() {
 
       const data = await response.json();
       setPreAssessment(data.preAssessment);
-      setBusinessDetails(data.businessDetails);
-    } catch (error) {
+   } catch (error) {
       console.error("Error:", error);
     }
   };
