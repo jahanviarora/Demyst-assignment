@@ -1,0 +1,15 @@
+{
+  "name": "Demyst-assignment",
+  "version": "1.0.0",
+  "description": "Business Load Application ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm watch"
+  },
+  "author": "Jahanvi Arora",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
